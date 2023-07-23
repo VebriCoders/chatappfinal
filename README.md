@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/VebriCoders/chatappfinal)">
-    <img src="[images/logo.png](https://ekiosku.com/assets/img/client/DITKUM.png)" alt="Logo" width="80" height="80">
+    <img src="https://ekiosku.com/assets/img/client/DITKUM.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CHAT APP - CARAKA</h3>
